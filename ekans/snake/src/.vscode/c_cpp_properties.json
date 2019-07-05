@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "win32",
+            "includePath": [
+                "D:/**",
+                "C:/**",
+                "D:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/VC/Tools/MSVC/14.15.26726/include",
+                "D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include"
+            ]
+        }
+    ],
+    "version": 4
+}
